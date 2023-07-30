@@ -1,0 +1,12 @@
+{
+    "name": "osoznan/test2",
+    "description": "demo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "osoznan",
+            "email": "yuoanswami@gmail.com"
+        }
+    ],
+    "require": {}
+}
